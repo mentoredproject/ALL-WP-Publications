@@ -95,3 +95,24 @@ This repository contains the files of the publications done by the team of the M
 14. DE NEIRA, A. B.; DE ARAUJO, A. M.; NOGUEIRA, M. An Intelligent System for DDoS Attack Prediction Based on Early Warning Signals. IEEE Transactions on Network and Service Management, p. 1–1, 2022.
 
 15. VERGÜTZ, A. et al. Data Instrumentation from IoT Network Traffic as Support for Security Management. IEEE Transactions on Network and Service Management, p. 1–1, 2022.
+
+
+## Year 4
+
+**Articles in indexed scientific journals:**
+
+**Conference papers:**
+
+1. ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA . Engenharia de Sinais Precoces de Alerta Para a Predição de Ataques DDoS. In: XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2023, Brasília. ANAIS DO XXVIII WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS), 2023
+
+2. DAVI BRITO, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA. Um Sistema Autônomo para a Predição de Ataques de DDoS em Redes Locais e Internet. In: XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos(SBRC), 2023, Brasília. ANAIS DO WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS), 2023. 
+
+3. MATEUS LIMA, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES E MICHELE NOGUEIRA. Predição Não-supervisionada de Ataques DDoS por Sinais Precoces e One-Class SVM. In: XXIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSEG), 2023, Juiz de Fora - MG. Anais do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, 2023.
+
+4. CAIO MACIEL, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES E MICHELE NOGUEIRA. Detecção de Botnets em Dispositivos IoTs baseado em LSTM Autoencoder. In: XXIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSEG), 2023, Juiz de Fora - MG. Anais do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, 2023.
+
+5. LUCAS ALBANO, LIGIA FRANCIELLE BORGES, ANDERSON BERGAMINI DE NEIRA E MICHELE NOGUEIRA . Predição de Ataques DDoS pela Correlação de Séries Temporais via Padrões Ordinais. In: XXIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSEG), 2023, Juiz de Fora - MG. Anais do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, 2023.
+
+6. ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA. Unsupervised Feature Engineering Approach to Predict DDoS Attacks. In: IEEE Global Communications Conference (Globecom), 2023, Kuala Lumpur, Malaysia. IEEE Global Communications Conference, 2023.
+
+7. Liu, Jinxin; Simsek, Murat; Nogueira, Michele; Kantarci, Burak. Multidomain transformer-based deep learning for early detection of network intrusion. In: IEEE Global Communications Conference (Globecom), 2023
