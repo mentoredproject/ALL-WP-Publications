@@ -116,3 +116,13 @@ This repository contains the files of the publications done by the team of the M
 6. ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA. Unsupervised Feature Engineering Approach to Predict DDoS Attacks. In: IEEE Global Communications Conference (Globecom), 2023, Kuala Lumpur, Malaysia. IEEE Global Communications Conference, 2023.
 
 7. Liu, Jinxin; Simsek, Murat; Nogueira, Michele; Kantarci, Burak. Multidomain transformer-based deep learning for early detection of network intrusion. In: IEEE Global Communications Conference (Globecom), 2023
+
+8. D. Brito, A. B. de Neira, L. F. Borges and M. Nogueira, "An Autonomous System for Predicting DDoS Attacks on Local Area Networks and the Internet," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361878.
+
+9. A. Neira, L. Borges, A. Araújo, and M. Nogueira. "Engenharia de Sinais Precoces de Alerta Para a Predição de Ataques DDoS", in Anais do XXVIII Workshop de Gerência e Operação de Redes e Serviços, Brasília/DF, 2023, pp. 139-152, doi: https://doi.org/10.5753/wgrs.2023.724.
+
+10. E. P. Farias, A. C. Jacinto Tavares and M. Nogueira, "A Runtime DDoS Attack Detection Technique Based on Stochastic Mathematical Model," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361881. 
+
+11. J. G. A. de Araújo Josephik et al., "Applying Hoeffding Tree Algorithms for Effective Stream Learning in IoT DDoS Detection," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361862.
+
+12. SALVADOR, Henrique G.; BATISTA, Daniel M.; SANTOS, Aldri Luiz Dos; NOGUEIRA, Michele. Detecção Eficiente de Anomalias em Redes de Data Centers Apoiada por Aprendizado de Máquina e Otimizador do Lobo Cinzento para Seleção de Atributos. In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 41. , 2023, Brasília/DF. Anais SBRC 2023. Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 267-280. ISSN 2177-9384. DOI: https://doi.org/10.5753/sbrc.2023.425. 
