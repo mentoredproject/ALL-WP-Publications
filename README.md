@@ -98,14 +98,33 @@ This repository contains the files of the publications done by the team of the M
 
 
 ## Year 4
+**Tutorial:**
+
+1. LIGIA FRANCIELLE BORGES E MICHELE NOGUEIRA. Introdução à Ciência de Dados em Cibersegurança. Simpósio Brasileiro de Bancos de Dados (SBBD), 2023, Belo Horizonte-MG. 26 de Setembro de 2023. [Link](https://sbbd.org.br/2023/sbbd-tutorials-program/)
+
+**Talks:**
+
+1. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview Focused on Networking. Dentro do escopo da visita técnica realizada. CNAM, Paris, França. 14 de Junho de 2023. [Link](https://roc.cnam.fr/?p=2879/)
+
+2. ALDRI SANTOS. Resilience for Critical Services in Dense Networks. Dentro do escopo da visita técnica realizada. CNAM, Paris, França. 14 de Junho de 2023. [Link](https://roc.cnam.fr/?p=2879)
+
+3. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview Focused on Networking. Durante o IEEE LATINCOM 2023, Cidade do Panamá, Panamá. 16 de Novembro de 2023. [Link](https://latincom2023.ieee-latincom.org/keynotes)
+
+**Panels:**
+
+1. MICHELE NOGUEIRA. Painel organizado sobre Educação em Cibersegurança no lançamento do evento Mulheres Brasileiras em Cibersegurança. Painelistas: Elisa Bertino (Purdue University), Jelena Mirkovic (University of Southern California), Daniela Oliveira (National Science Foundation) e Michele Nogueira (UFMG - Moderadora). Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg), 2023, Juiz de Fora-MG. 20 de Setembro de 2023. [Link](https://youtube.com/live/Ry2xQagT3cU)
+
+2. MICHELE NOGUEIRA. Painel organizado sobre Regulamentação da Inteligência Artificial: Desafios e Impactos. Um dos itens discutidos foi o impacto da regulamentação da IA na Cibersegurança. Painelistas: Luis Lamb (UFRGS), Edgar Lyra (PUC-RJ), Claudio Lucena (CNPD), Marcelo Motta (Huawei) e Michele Nogueira (UFMG - Moderadora). Conferência Brasileira de Sistemas Inteligentes (BRACIS), 2023, Belo Horizonte-MG. 27 de Setembro de 2023. [Link] (https://www.bracis.dcc.ufmg.br/)
+
 
 **Articles in indexed scientific journals:**
 
 **Conference papers:**
 
-1. ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA . Engenharia de Sinais Precoces de Alerta Para a Predição de Ataques DDoS. In: XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2023, Brasília. ANAIS DO XXVIII WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS), 2023
+1. DAVI BRITO, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA. Um Sistema Autônomo para a Predição de Ataques de DDoS em Redes Locais e Internet. In: XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos(SBRC), 2023, Brasília. ANAIS DO WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS), 2023. 
 
-2. DAVI BRITO, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA. Um Sistema Autônomo para a Predição de Ataques de DDoS em Redes Locais e Internet. In: XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos(SBRC), 2023, Brasília. ANAIS DO WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS), 2023. 
+2. ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA . Engenharia de Sinais Precoces de Alerta Para a Predição de Ataques DDoS. In: XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2023, Brasília. ANAIS DO XXVIII WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS), 2023
+
 
 3. MATEUS LIMA, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES E MICHELE NOGUEIRA. Predição Não-supervisionada de Ataques DDoS por Sinais Precoces e One-Class SVM. In: XXIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSEG), 2023, Juiz de Fora - MG. Anais do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, 2023.
 
@@ -119,10 +138,8 @@ This repository contains the files of the publications done by the team of the M
 
 8. D. Brito, A. B. de Neira, L. F. Borges and M. Nogueira, "An Autonomous System for Predicting DDoS Attacks on Local Area Networks and the Internet," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361878.
 
-9. A. Neira, L. Borges, A. Araújo, and M. Nogueira. "Engenharia de Sinais Precoces de Alerta Para a Predição de Ataques DDoS", in Anais do XXVIII Workshop de Gerência e Operação de Redes e Serviços, Brasília/DF, 2023, pp. 139-152, doi: https://doi.org/10.5753/wgrs.2023.724.
+9. E. P. Farias, A. C. Jacinto Tavares and M. Nogueira, "A Runtime DDoS Attack Detection Technique Based on Stochastic Mathematical Model," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361881. 
 
-10. E. P. Farias, A. C. Jacinto Tavares and M. Nogueira, "A Runtime DDoS Attack Detection Technique Based on Stochastic Mathematical Model," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361881. 
+10. J. G. A. de Araújo Josephik et al., "Applying Hoeffding Tree Algorithms for Effective Stream Learning in IoT DDoS Detection," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361862.
 
-11. J. G. A. de Araújo Josephik et al., "Applying Hoeffding Tree Algorithms for Effective Stream Learning in IoT DDoS Detection," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361862.
-
-12. SALVADOR, Henrique G.; BATISTA, Daniel M.; SANTOS, Aldri Luiz Dos; NOGUEIRA, Michele. Detecção Eficiente de Anomalias em Redes de Data Centers Apoiada por Aprendizado de Máquina e Otimizador do Lobo Cinzento para Seleção de Atributos. In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 41. , 2023, Brasília/DF. Anais SBRC 2023. Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 267-280. ISSN 2177-9384. DOI: https://doi.org/10.5753/sbrc.2023.425. 
+11. SALVADOR, Henrique G.; BATISTA, Daniel M.; SANTOS, Aldri Luiz Dos; NOGUEIRA, Michele. Detecção Eficiente de Anomalias em Redes de Data Centers Apoiada por Aprendizado de Máquina e Otimizador do Lobo Cinzento para Seleção de Atributos. In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 41. , 2023, Brasília/DF. Anais SBRC 2023. Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 267-280. ISSN 2177-9384. DOI: https://doi.org/10.5753/sbrc.2023.425. 
