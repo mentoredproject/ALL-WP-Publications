@@ -114,7 +114,7 @@ This repository contains the files of the publications done by the team of the M
 
 1. MICHELE NOGUEIRA. Painel organizado sobre Educação em Cibersegurança no lançamento do evento Mulheres Brasileiras em Cibersegurança. Painelistas: Elisa Bertino (Purdue University), Jelena Mirkovic (University of Southern California), Daniela Oliveira (National Science Foundation) e Michele Nogueira (UFMG - Moderadora). Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg), 2023, Juiz de Fora-MG. 20 de Setembro de 2023. [Link](https://youtube.com/live/Ry2xQagT3cU)
 
-2. MICHELE NOGUEIRA. Painel organizado sobre Regulamentação da Inteligência Artificial: Desafios e Impactos. Um dos itens discutidos foi o impacto da regulamentação da IA na Cibersegurança. Painelistas: Luis Lamb (UFRGS), Edgar Lyra (PUC-RJ), Claudio Lucena (CNPD), Marcelo Motta (Huawei) e Michele Nogueira (UFMG - Moderadora). Conferência Brasileira de Sistemas Inteligentes (BRACIS), 2023, Belo Horizonte-MG. 27 de Setembro de 2023. [Link] (https://www.bracis.dcc.ufmg.br/)
+2. MICHELE NOGUEIRA. Painel organizado sobre Regulamentação da Inteligência Artificial: Desafios e Impactos. Um dos itens discutidos foi o impacto da regulamentação da IA na Cibersegurança. Painelistas: Luis Lamb (UFRGS), Edgar Lyra (PUC-RJ), Claudio Lucena (CNPD), Marcelo Motta (Huawei) e Michele Nogueira (UFMG - Moderadora). Conferência Brasileira de Sistemas Inteligentes (BRACIS), 2023, Belo Horizonte-MG. 27 de Setembro de 2023. [Link](https://www.bracis.dcc.ufmg.br/)
 
 
 **Articles in indexed scientific journals:**
