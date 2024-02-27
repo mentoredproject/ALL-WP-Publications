@@ -144,3 +144,5 @@ This repository contains the files of the publications done by the team of the M
 10. J. G. A. de Araújo Josephik et al., "Applying Hoeffding Tree Algorithms for Effective Stream Learning in IoT DDoS Detection," 2023 IEEE Latin-American Conference on Communications (LATINCOM), Panama City, Panama, 2023, pp. 1-6, doi: 10.1109/LATINCOM59467.2023.10361862.
 
 11. SALVADOR, Henrique G.; BATISTA, Daniel M.; SANTOS, Aldri Luiz Dos; NOGUEIRA, Michele. Detecção Eficiente de Anomalias em Redes de Data Centers Apoiada por Aprendizado de Máquina e Otimizador do Lobo Cinzento para Seleção de Atributos. In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 41. , 2023, Brasília/DF. Anais SBRC 2023. Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 267-280. ISSN 2177-9384. DOI: https://doi.org/10.5753/sbrc.2023.425. 
+
+12. Davi Daniel Gemmer, Bruno Henrique Meyer, Emerson Ribeiro de Mello, Marcos Schwarz, Michelle Silva Wangham, Michele Nogueira (2023). A Scalable Cyber Security Framework for the Experimentation of DDoS Attacks of Things. Proceedings of IEEE/IFIP Network Operations and Management Symposium (NOMS).
