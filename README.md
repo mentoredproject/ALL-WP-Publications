@@ -68,11 +68,6 @@ This repository contains the files of the publications done by the team of the M
 
 2. SCHWENGBER, BRUNO HENRIQUE ; VERGUTZ, ANDRESSA ; PRATES, NELSON G. ; Nogueira, Michele . Learning from Network Data Changes for Unsupervised Botnet Detection. IEEE Transactions on Network and Service Management, v. 18, p. 1-1, 2022.
 
-3. Neira, A; Knatarci, B., Nogueira, M.. Distributed Denial of Service Attack Prediction: Challenges, Open Issues and Opportunities. Computer Networks. 2022
-
-4. Rodriguez, Luis Gustavo Araujo; Batista, Daniel Macêdo. Resource-intensive Fuzzing for MQTT Brokers: State of the Art, Performance Evaluation and Open Issues. IEEE Networking Letters. 2022 [Submetido]
-
-5. de Oliveira, Guilherme Werneck; Nogueira, Michele; dos Santos, Aldri Luiz; Batista, Daniel Macêdo. Intelligent VNF Placement to Mitigate DDoS Attacks on Industrial IoT. IEEE Transactions on Network and Service Management. 2022
 
 **Conference papers:**
 
@@ -118,6 +113,12 @@ This repository contains the files of the publications done by the team of the M
 
 
 **Articles in indexed scientific journals:**
+
+1. Neira, A; Knatarci, B., Nogueira, M.. Distributed Denial of Service Attack Prediction: Challenges, Open Issues and Opportunities. Computer Networks. 2022
+
+2. Rodriguez, L. G. A. ; Batista, D. M. . Resource-intensive Fuzzing for MQTT Brokers: State of the Art, Performance Evaluation, and Open Issues. IEEE Networking Letters, v. 5, p. 100-104, 2023. doi: 10.1109/LNET.2023.3263556
+
+3. Oliveira, G. W. ; Nogueira, Michele ; Santos, A. L. ; Batista, D. M. . Intelligent VNF Placement to Mitigate DDoS Attacks on Industrial IoT. IEEE Transactions on Network and Service Management, v. 20, p. 1319-1331, 2023. doi: 10.1109/TNSM.2023.3274364
 
 **Conference papers:**
 
