@@ -126,7 +126,6 @@ This repository contains the files of the publications done by the team of the M
 
 2. ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES , ALEX MEDEIROS DE ARAUJO E MICHELE NOGUEIRA . Engenharia de Sinais Precoces de Alerta Para a Predição de Ataques DDoS. In: XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2023, Brasília. ANAIS DO XXVIII WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS), 2023
 
-
 3. MATEUS LIMA, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES E MICHELE NOGUEIRA. Predição Não-supervisionada de Ataques DDoS por Sinais Precoces e One-Class SVM. In: XXIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSEG), 2023, Juiz de Fora - MG. Anais do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, 2023.
 
 4. CAIO MACIEL, ANDERSON BERGAMINI DE NEIRA, LIGIA FRANCIELLE BORGES E MICHELE NOGUEIRA. Detecção de Botnets em Dispositivos IoTs baseado em LSTM Autoencoder. In: XXIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSEG), 2023, Juiz de Fora - MG. Anais do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, 2023.
@@ -146,3 +145,27 @@ This repository contains the files of the publications done by the team of the M
 11. SALVADOR, Henrique G.; BATISTA, Daniel M.; SANTOS, Aldri Luiz Dos; NOGUEIRA, Michele. Detecção Eficiente de Anomalias em Redes de Data Centers Apoiada por Aprendizado de Máquina e Otimizador do Lobo Cinzento para Seleção de Atributos. In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 41. , 2023, Brasília/DF. Anais SBRC 2023. Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 267-280. ISSN 2177-9384. DOI: https://doi.org/10.5753/sbrc.2023.425. 
 
 12. Davi Daniel Gemmer, Bruno Henrique Meyer, Emerson Ribeiro de Mello, Marcos Schwarz, Michelle Silva Wangham, Michele Nogueira (2023). A Scalable Cyber Security Framework for the Experimentation of DDoS Attacks of Things. Proceedings of IEEE/IFIP Network Operations and Management Symposium (NOMS).
+
+## Year 5
+
+**Minicurso:**
+
+1. EMERSON MELO, MICHELLE WANGHAM, DAVI GEMMER, BRUNO MEYER, KHALIL SANTANA, LUIZ FOLLY CAMPOS. Testbeds para Pesquisa Experimental em Cibersegurança: Da Teoria à Prática. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos  (SBRC), 2024, Niterói, RJ. 25 de Maio de 2024. [Link]()
+
+**Talks:**
+
+1. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview. IEEE WCNC 2024, Dubai, Emirados Árabes. 23 de Abril de 2024. [Link](https://wcnc2024.ieee-wcnc.org/wicewie-program)
+   
+2. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview focused on networking. Visita técnica realizada no Technology Innovation Institute (TII). Abu Dhabi, Emirados Árabes. 24 de Abril de 2024. 
+
+**Panels:**
+[TBA]
+
+**Articles in indexed scientific journals:**
+[TBA]
+
+**Capítulos de livro:**
+1. EMERSON MELO, MICHELLE WANGHAM, DAVI GEMMER, BRUNO MEYER, KHALIL SANTANA, LUIZ FOLLY CAMPOS. Testbeds para Pesquisa Experimental em Cibersegurança: Da Teoria à Prática. Capítulo de livro no livro de minicursos do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2024, Niterói, RJ. 
+
+**Conference papers:**
+[TBA]
