@@ -148,24 +148,84 @@ This repository contains the files of the publications done by the team of the M
 
 ## Year 5
 
-**Minicurso:**
+**Special Issue Organization:**
+1. Zero Trust for Next-Generation Networking", IEEE Communications Magazine. Editores: Moayad Aloqaily , Qian Zhang (HKUST, China), Martin Andreoni (TII, UAE), Michele Nogueira (UFMG, Brazil), Xiaojiang Du (SIT, USA), Ang Chen (Rice University, USA) 
 
-1. EMERSON MELO, MICHELLE WANGHAM, DAVI GEMMER, BRUNO MEYER, KHALIL SANTANA, LUIZ FOLLY CAMPOS. Testbeds para Pesquisa Experimental em Cibersegurança: Da Teoria à Prática. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos  (SBRC), 2024, Niterói, RJ. 25 de Maio de 2024. [Link]()
+
+**Panel:**
+
+1. Communication-Computing continuum for 6G & IoT. Moderated by: Kuljeet Kaur & Anastassia Gharib. Panelists: Michele Nogueira, Federal University of Minas Gerais, Brazil, Amira Alloum, Qualcomm Wireless R&D. Hajar Mousannif, Faculty of Sciences Semlalia (Cadi Ayyad University, Morocco), Marco Di Renzo, CentraleSupelec, Paris-Saclay University, France, Christos Masouros, UCL, UK, Lina Bariah, Open Innovation AI, and Khalifa University. IEEE WCNC 2024, Dubai, United Arab Emirates.
+
 
 **Talks:**
 
-1. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview. IEEE WCNC 2024, Dubai, Emirados Árabes. 23 de Abril de 2024. [Link](https://wcnc2024.ieee-wcnc.org/wicewie-program)
-   
-2. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview focused on networking. Visita técnica realizada no Technology Innovation Institute (TII). Abu Dhabi, Emirados Árabes. 24 de Abril de 2024. 
+1. MICHELE NOGUEIRA. AI and Cybersecurity: The Tipping Point. Google AI Connect: Privacy, Security and Protection. 27 de Agosto de 2024. 
 
-**Panels:**
-[TBA]
+2. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview Focused on Networking. Google AI Connect: Privacy, Security and Protection. 27 de Agosto de 2024. 
 
-**Articles in indexed scientific journals:**
-[TBA]
+3. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview Focused on Networking. IEEE Women in Engineering. Nigeria Section. 02 de Agosto de 2024. 
 
-**Capítulos de livro:**
-1. EMERSON MELO, MICHELLE WANGHAM, DAVI GEMMER, BRUNO MEYER, KHALIL SANTANA, LUIZ FOLLY CAMPOS. Testbeds para Pesquisa Experimental em Cibersegurança: Da Teoria à Prática. Capítulo de livro no livro de minicursos do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2024, Niterói, RJ. 
+4. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview Focused on Networking. Dentro do escopo da visita técnica realizada na Univversidade de Lorraine/INRIA Nancy. França. 10 de Julho de 2024. 
+
+5. MICHELE NOGUEIRA. Empowering DDoS Attack Prediction through Machine Learning and Deep Learning. Palestra convidada. The First Workshop on Machine Learning and Deep Learning for Wireless Security. Conjunto ao IEEE International Conference on Communications (ICC) 2024. Denver, CO, EUA. 09 de Junho de 2024.
+
+6. Michelle Silva Wangham. Mentored Testbed: Pesquisa Experimental em Cibersegurança. Palestra no WTestbeds do 44º Congresso da Sociedade Brasileira de Computação (CSBC) 2024. 
+
+7. MICHELE NOGUEIRA. Data Science for Cybersecurity: An Overview Focused on Networking. Palestra convidada. TII, Abu Dhabi, United Arab Emirates, 2024.  
+
 
 **Conference papers:**
-[TBA]
+
+1. LIGIA FRANCIELLE BORGES, ANDERSON BERGAMINI DE NEIRA, LUCAS ALBANO E MICHELE NOGUEIRA. Multifaceted DDoS Attack Prediction by Multivariate Time Series and Ordinal Patterns. In: The First Workshop on Machine Learning and Deep Learning for Wireless Security. In conjunction with IEEE International Conference on Communications (ICC) 2024. Denver, CO, EUA. 09 de Junho de 2024. 
+
+
+2. JEANDRO BEZERRA, JANAEL PINHEIRO, CRISTON de SOUZA E MICHELE NOGUEIRA. Optimal Packet Padding for IoT Traffic Obfuscation. In: IEEE International Global Communications (GLOBECOM). South Africa, 2024.
+
+3. Matheus Henrique dos Santos Lima, Anderson Neira, Ligia Francielle Borges, Michele Nogueira. Artigo Curto. Automatização da Seleção de Modelos Não Supervisionados na Predição de Ataques DDoS. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg) 2024. 
+
+4. LIGIA FRANCIELLE BORGES, ANDERSON BERGAMINI DE NEIRA, LUCAS ALBANO E MICHELE NOGUEIRA. Seleção de Características na Predição de Ataques DDoS com Transformação em Padrões Ordinais. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC) 2024.
+
+
+5. Bruno Henrique Meyer, Davi D. Gemmer, Khalil Santana, Joao Ferreira, Emerson Ribeiro de Mello, Michele Nogueira Lima, Michelle Silva Wangham. Criação e análise de datasets de ataque de negação de serviço usando o MENTORED Testbed. Simpósio Brasileiro de Redes de Computadores (SBRC), 2024. 
+
+6. Franklin A. M. Venceslau e José A. Suruagy Monteiro. Mecanismo Dinâmico para a Detecção de Anomalias em Rede Baseado no Fator de Outlier Local e MUD. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2024. 
+
+7. Carlos Alberto Pedroso (UFPR), Agnaldo de Souza Batista, Samuel Jesus, Guilherme Rodrigues (UFMG), Aldri Luiz dos Santos. A Direct Collaborative Network Intrusion Detection System for IoT Networks Integration. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC) 2024. 
+
+
+8. MATEUS PELLOSO E MICHELE NOGUEIRA. Comparação do Impacto de Ataques Adversariais Contra Modelo de Classificação baseado em ML. WGRS - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC) 2024. 
+
+
+**Short Courses:**
+
+1. Michele Nogueira, Ligia F. Borges, Anderson B. Neira, Lucas Albano, Kristtopher K. Coelho. Ciência de Dados Aplicada à Cibersegurança: Teoria e Prática. Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg), 2024.
+
+
+2. Michelle Silva Wangham, Bruno H. Meyer, Davi D. Gemmer, Khalil G. Q. de Santana, Lucas Rodrigues Frank, Luiz Eduardo Folly de Campos, Emerson Ribeiro de Mello (IFSC) e Marcos Felipe Schwarz. Testbeds para Pesquisa Experimental em Cibersegurança: Da Teoria à Prática. Michelle Minicursos do 42º Simpósio Brasileiro de Redes de Computadores (SBRC), 2024. 
+
+
+**Demos:**
+
+1. Davi D. Gemmer. Analisando ataques Slowloris com o MENTORED Testbed. Demonstração no WTestbeds do 44º Congresso da Sociedade Brasileira de Computação (CSBC) 2024 
+
+## Year 6
+
+Articles in indexed scientific journals:
+
+1. AGNALDO BATISTA, CARLOS PEDROSO, SAMUEL BRISIO, GUILHERME RODRIGUES, ALDRI SANTOS. Evaluating Robustness and Reliability of a C-NIDSfor IoT Networks in Virtualized Environments. IEEE Latin America Transactions, vol. 23, No. 5, 2025. 
+
+2. EUCLIDES P. FARIS, ANDERSON NEIRA, LIGIA BORGES, MICHELE NOGUEIRA. Transformers model for DDoS attack detection: A Survey, and Open Issues. Computer Networks. (accepted for publication). 
+
+3. LEONARDO HENRIQUE DE MELO, GUSTAVO DE CARVALHO BERTOLI, MICHELE NOGUEIRA, ALDRI SANTOS, LOURENÇO ALVES PEREIRA. Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection. IEEE Network (accepted for publication
+
+**Conference papers:**
+
+1. DAVI BEZERRA YADA DA SILVA, JEANDRO BEZERRA, ALDRI SANTOS. Aplicando Privacidade Diferencial contra Ataques de Associação em Internet das Coisas. Anais do XLIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2025. 
+
+2. FERNANDA PEREIRA, MATEUS PELLOSO, MICHELE NOGUEIRA. Avaliação das CGANs na Robustez de Modelos de Classificação de Ataques em IoT. Workshop de Gerência de Serviços e Operações de Rede, Anais do XLIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2025. 
+
+3. CAROLINE CAMPOS CARVALHO, LIGIA BORGES, ANDERSON NEIRA, DANIEL BATISTA, MICHELE NOGUEIRA. Um Método de Anonimização com Preservação de Prefixo baseado em Cifra de Feistel Desbalanceada e Heterogênea. Anais do XLIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2025. 
+
+4. MATHEUS TORQUATO, CHARLES GONÇALVES, MICHELE NOGUEIRA, DENIS ROSÁRIO, EDUARDO CERQUEIRA. Migração Automatizada de VMs na Defesa de Brokers MQTT Contra Memory Denial of Service. Anais do XLIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2025. 
+
+5. LIGIA BORGES, ANDERSON NEIRA, LUCAS ALBANO, MICHELE NOGUEIRA. Unsupervised Online AutoML for DDoS of Things Prediction by Multimodal Analysis. IEEE International Conference on Communications (ICC), 2025. 
