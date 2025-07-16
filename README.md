@@ -229,3 +229,10 @@ Articles in indexed scientific journals:
 4. MATHEUS TORQUATO, CHARLES GONÇALVES, MICHELE NOGUEIRA, DENIS ROSÁRIO, EDUARDO CERQUEIRA. Migração Automatizada de VMs na Defesa de Brokers MQTT Contra Memory Denial of Service. Anais do XLIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2025. 
 
 5. LIGIA BORGES, ANDERSON NEIRA, LUCAS ALBANO, MICHELE NOGUEIRA. Unsupervised Online AutoML for DDoS of Things Prediction by Multimodal Analysis. IEEE International Conference on Communications (ICC), 2025. 
+
+
+6. BRUNO BRANDÃO INÁCIO, JULIANA C. CARVALHO DE ARAÚJO, ALDRI SANTOS, MICHELE NOGUEIRA, ROBERTO HIRATA, DANIEL BATISTA. A Lean and Modular Two-Stage Network Intrusion Detection System for IoT Traffic. In: IEEE LatinAmerican Conference on Communications (LATINCOM), 2024, Medellin. Proceedings of the IEEE Latin-American Conference on Communications (LATINCOM), 2024. 
+
+7. ANDERSON B. DE NEIRA, LIGIA F. BORGES, DANIEL BATISTA, MICHELE NOGUEIRA. Unsupervised AutoML and Dimensionality Reduction for Autonomous DDoS Attack Prediction. In: IEEE LatinAmerican Conference on Communications (LATINCOM), 2024, Medellin. Proceedings of the IEEE Latin-American Conference on Communications (LATINCOM), 2024. 
+
+8. Batista, A., Pedroso, C., Brísio, S., Rodrigues, G., & Santos, A. (2025). Evaluating Robustness and Reliability of a C-NIDS for IoT Networks in Virtualized Environments. IEEE Latin America Transactions, 23(5), 363–370.
