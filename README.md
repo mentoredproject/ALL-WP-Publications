@@ -236,3 +236,10 @@ Articles in indexed scientific journals:
 7. ANDERSON B. DE NEIRA, LIGIA F. BORGES, DANIEL BATISTA, MICHELE NOGUEIRA. Unsupervised AutoML and Dimensionality Reduction for Autonomous DDoS Attack Prediction. In: IEEE LatinAmerican Conference on Communications (LATINCOM), 2024, Medellin. Proceedings of the IEEE Latin-American Conference on Communications (LATINCOM), 2024. 
 
 8. Batista, A., Pedroso, C., Brísio, S., Rodrigues, G., & Santos, A. (2025). Evaluating Robustness and Reliability of a C-NIDS for IoT Networks in Virtualized Environments. IEEE Latin America Transactions, 23(5), 363–370.
+
+## Year 7
+
+**Articles in indexed scientific journals:**
+
+**Conference papers:**
+
