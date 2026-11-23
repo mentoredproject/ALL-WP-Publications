@@ -212,11 +212,11 @@ This repository contains the files of the publications done by the team of the M
 
 Articles in indexed scientific journals:
 
-1. AGNALDO BATISTA, CARLOS PEDROSO, SAMUEL BRISIO, GUILHERME RODRIGUES, ALDRI SANTOS. Evaluating Robustness and Reliability of a C-NIDSfor IoT Networks in Virtualized Environments. IEEE Latin America Transactions, vol. 23, No. 5, 2025. 
+1. AGNALDO BATISTA, CARLOS PEDROSO, SAMUEL BRISIO, GUILHERME RODRIGUES, ALDRI SANTOS (2025). Evaluating Robustness and Reliability of a C-NIDS for IoT Networks in Virtualized Environments. IEEE Latin America Transactions, 23(5), 363–370. 
 
-2. EUCLIDES P. FARIS, ANDERSON NEIRA, LIGIA BORGES, MICHELE NOGUEIRA. Transformers model for DDoS attack detection: A Survey, and Open Issues. Computer Networks. (accepted for publication). 
+4. EUCLIDES P. FARIS, ANDERSON NEIRA, LIGIA BORGES, MICHELE NOGUEIRA. Transformers model for DDoS attack detection: A Survey, and Open Issues. Computer Networks. (accepted for publication). 
 
-3. LEONARDO HENRIQUE DE MELO, GUSTAVO DE CARVALHO BERTOLI, MICHELE NOGUEIRA, ALDRI SANTOS, LOURENÇO ALVES PEREIRA. Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection. IEEE Network (accepted for publication
+5. LEONARDO HENRIQUE DE MELO, GUSTAVO DE CARVALHO BERTOLI, MICHELE NOGUEIRA, ALDRI SANTOS, LOURENÇO ALVES PEREIRA. Anomaly-Flow: A Multi-domain Federated Generative Adversarial Network for Distributed Denial-of-Service Detection. IEEE Network (accepted for publication
 
 **Conference papers:**
 
@@ -235,7 +235,7 @@ Articles in indexed scientific journals:
 
 7. ANDERSON B. DE NEIRA, LIGIA F. BORGES, DANIEL BATISTA, MICHELE NOGUEIRA. Unsupervised AutoML and Dimensionality Reduction for Autonomous DDoS Attack Prediction. In: IEEE LatinAmerican Conference on Communications (LATINCOM), 2024, Medellin. Proceedings of the IEEE Latin-American Conference on Communications (LATINCOM), 2024. 
 
-8. Batista, A., Pedroso, C., Brísio, S., Rodrigues, G., & Santos, A. (2025). Evaluating Robustness and Reliability of a C-NIDS for IoT Networks in Virtualized Environments. IEEE Latin America Transactions, 23(5), 363–370.
+8. 
 
 ## Year 7
 
