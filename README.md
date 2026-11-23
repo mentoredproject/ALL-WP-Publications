@@ -235,7 +235,6 @@ Articles in indexed scientific journals:
 
 7. ANDERSON B. DE NEIRA, LIGIA F. BORGES, DANIEL BATISTA, MICHELE NOGUEIRA. Unsupervised AutoML and Dimensionality Reduction for Autonomous DDoS Attack Prediction. In: IEEE LatinAmerican Conference on Communications (LATINCOM), 2024, Medellin. Proceedings of the IEEE Latin-American Conference on Communications (LATINCOM), 2024. 
 
-8. 
 
 ## Year 7
 
@@ -243,3 +242,4 @@ Articles in indexed scientific journals:
 
 **Conference papers:**
 
+1. ARTHUR FERREIRA, CARLOS PEDROSO Jr, AGNALDO DE SOUZA BATISTA, ALDRI SANTOS. Uma Comparação de Ferramentas Open Source de CLI para Geração de Ataques DDoS em Ambientes de Internet. Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 44, 2026, Praia do Forte/BA. Porto Alegre: Sociedade Brasileira de Computação, 2026. p. 1443-1456.
